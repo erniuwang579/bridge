@@ -1,0 +1,346 @@
+# DPModeler v3.0 Wavefront OBJ Exporter
+
+newmtl mtl_default
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+
+newmtl 096003d4-4fb4-4f61-8dea-43ee7f01a505
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/096003d4-4fb4-4f61-8dea-43ee7f01a505.jpg
+
+newmtl 354fd1ec-24a5-4672-a46d-d6fbe135fe40
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/354fd1ec-24a5-4672-a46d-d6fbe135fe40.jpg
+
+newmtl 84c4a92e-e2e6-406c-aa26-38a98126275e
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/84c4a92e-e2e6-406c-aa26-38a98126275e.jpg
+
+newmtl 70d6159f-d690-44a3-b75d-82c3b89dbedb
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/70d6159f-d690-44a3-b75d-82c3b89dbedb.jpg
+
+newmtl 20851a30-e1db-4142-b028-956381ab6a92
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/20851a30-e1db-4142-b028-956381ab6a92.jpg
+
+newmtl 4cffcc26-5dcd-4822-9bf6-d353373304cc
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/4cffcc26-5dcd-4822-9bf6-d353373304cc.jpg
+
+newmtl 1666b5a9-09a5-44af-855c-ecb97c00b917
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/1666b5a9-09a5-44af-855c-ecb97c00b917.jpg
+
+newmtl e750f405-f351-4551-bdc4-a39dd8b18577
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/e750f405-f351-4551-bdc4-a39dd8b18577.jpg
+
+newmtl eafef049-3de1-4808-8202-9fea347a6534
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/eafef049-3de1-4808-8202-9fea347a6534.jpg
+
+newmtl 692db0c8-424e-4626-b3d0-3367f68149c5
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/692db0c8-424e-4626-b3d0-3367f68149c5.jpg
+
+newmtl 58e2627b-8901-457b-8afb-e4e3c1aa69dc
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/58e2627b-8901-457b-8afb-e4e3c1aa69dc.jpg
+
+newmtl ab0ec295-96e8-4fbf-9a4d-d77f4e535cb0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/ab0ec295-96e8-4fbf-9a4d-d77f4e535cb0.jpg
+
+newmtl fa9e728b-e874-4132-8fb8-d30c20882b79
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/fa9e728b-e874-4132-8fb8-d30c20882b79.jpg
+
+newmtl 049470ec-e77d-4e4b-aafd-0cf6f37ac47a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/049470ec-e77d-4e4b-aafd-0cf6f37ac47a.jpg
+
+newmtl c62f06d7-9297-4d6f-9abe-1898a6feb2ae
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/c62f06d7-9297-4d6f-9abe-1898a6feb2ae.jpg
+
+newmtl 662741a3-d302-4076-b929-ea9078955462
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/662741a3-d302-4076-b929-ea9078955462.jpg
+
+newmtl b3d93a73-a8df-45e7-859b-540712324776
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/b3d93a73-a8df-45e7-859b-540712324776.jpg
+
+newmtl 4d625ac2-50d5-4688-be73-958982bc3f54
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/4d625ac2-50d5-4688-be73-958982bc3f54.jpg
+
+newmtl 28a37069-5882-4410-8c7a-4ee09302eaf7
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/28a37069-5882-4410-8c7a-4ee09302eaf7.jpg
+
+newmtl d4f4cb9c-f213-4e1e-977e-416ea81b239d
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/d4f4cb9c-f213-4e1e-977e-416ea81b239d.jpg
+
+newmtl b8e02c5d-1f19-437f-a102-4402567d5c44
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/b8e02c5d-1f19-437f-a102-4402567d5c44.jpg
+
+newmtl b720da2e-8480-43e8-92cd-52b03b689608
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/b720da2e-8480-43e8-92cd-52b03b689608.jpg
+
+newmtl a2ba5d5f-a1b7-4f2b-bda4-4826e594708c
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/a2ba5d5f-a1b7-4f2b-bda4-4826e594708c.jpg
+
+newmtl 51d7f373-de3f-4157-8e4b-7e535d3a59a8
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/51d7f373-de3f-4157-8e4b-7e535d3a59a8.jpg
+
+newmtl 3b92234a-972c-4365-9291-1afdd94c635a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/3b92234a-972c-4365-9291-1afdd94c635a.jpg
+
+newmtl a3121e47-7567-40b1-9e71-68a89b10728e
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/a3121e47-7567-40b1-9e71-68a89b10728e.jpg
+
+newmtl 681213e5-dfe8-48e3-b6b3-618be78c8dd7
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/681213e5-dfe8-48e3-b6b3-618be78c8dd7.jpg
+
+newmtl bdb4ef7b-c643-488a-804a-f5d7d0b87883
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/bdb4ef7b-c643-488a-804a-f5d7d0b87883.jpg
+
+newmtl 55953e87-0f98-40e6-9722-b87e1636f2f6
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/55953e87-0f98-40e6-9722-b87e1636f2f6.jpg
+
+newmtl 55c2c3e4-f984-4125-b108-a6c4b70ac042
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/55c2c3e4-f984-4125-b108-a6c4b70ac042.jpg
+
+newmtl 3f4beae3-002a-401e-8820-640b497fbb6e
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/3f4beae3-002a-401e-8820-640b497fbb6e.jpg
+
+newmtl 98f86c66-68fa-4dd3-a01b-009e688e8cd8
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/98f86c66-68fa-4dd3-a01b-009e688e8cd8.jpg
+
+newmtl 2fe7c338-1425-473c-bedc-4d1b5e9b17c1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/2fe7c338-1425-473c-bedc-4d1b5e9b17c1.jpg
+
+newmtl 9c70cb9f-9d5e-47de-9204-de27a8067499
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/9c70cb9f-9d5e-47de-9204-de27a8067499.jpg
+
+newmtl 56adfe4c-f631-4f23-afad-1acd9ea81441
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/56adfe4c-f631-4f23-afad-1acd9ea81441.jpg
+
+newmtl 8005183f-361e-4e86-a4cd-350a2ebcd200
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/8005183f-361e-4e86-a4cd-350a2ebcd200.jpg
+
+newmtl 39e699ff-13a5-4639-83c0-a164c7e2550d
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/39e699ff-13a5-4639-83c0-a164c7e2550d.jpg
+
+newmtl 0566c7fd-90ef-4f69-bad0-d3b95f408f4a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/0566c7fd-90ef-4f69-bad0-d3b95f408f4a.jpg
+
+newmtl b6757df2-67cf-47ff-a716-9ac96f08ba55
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/b6757df2-67cf-47ff-a716-9ac96f08ba55.jpg
+
+newmtl ad3359a5-b75d-412d-b071-2e8911545ae0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/ad3359a5-b75d-412d-b071-2e8911545ae0.jpg
+
+newmtl 82ca7ead-a941-49a5-b796-1d118860fc82
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/82ca7ead-a941-49a5-b796-1d118860fc82.jpg
+
+newmtl b26861b9-cbc6-445e-819d-bc6d52998630
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/b26861b9-cbc6-445e-819d-bc6d52998630.jpg
+
+newmtl c4c528df-9c36-4c10-864d-0632e5fee3dd
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/c4c528df-9c36-4c10-864d-0632e5fee3dd.jpg
+
+newmtl ce26b266-2f57-41ff-8235-768896f168d1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/ce26b266-2f57-41ff-8235-768896f168d1.jpg
+
+newmtl f0e22b69-69ed-456d-902f-0580a5c73742
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/f0e22b69-69ed-456d-902f-0580a5c73742.jpg
+
+newmtl fe719946-2d97-46fe-8c0d-50e19515b4e3
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/fe719946-2d97-46fe-8c0d-50e19515b4e3.jpg
+
+newmtl 9b8d29a1-ecd9-4cd3-929c-2d595c49020a
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/9b8d29a1-ecd9-4cd3-929c-2d595c49020a.jpg
+
+newmtl daaf5caf-fe21-4262-9540-36897213e2b2
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/daaf5caf-fe21-4262-9540-36897213e2b2.jpg
+
+newmtl 13ed4d28-8096-4526-b589-a242c84f9276
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/13ed4d28-8096-4526-b589-a242c84f9276.jpg
+
+newmtl b366ef4f-08a8-4d52-92ba-b0a660ac7d2f
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/b366ef4f-08a8-4d52-92ba-b0a660ac7d2f.jpg
+
+newmtl d5c78db0-1901-4635-a4f6-3eedaee8c2b7
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/d5c78db0-1901-4635-a4f6-3eedaee8c2b7.jpg
+
+newmtl 31ac4abc-5206-44b7-bb26-e6c81a9842af
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/31ac4abc-5206-44b7-bb26-e6c81a9842af.jpg
+
+newmtl c8b6b3e9-10d6-481c-ab34-2816d0fcf0ed
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/c8b6b3e9-10d6-481c-ab34-2816d0fcf0ed.jpg
+
+newmtl 584432ec-7a21-4d7c-95b3-34e930f82ed1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/584432ec-7a21-4d7c-95b3-34e930f82ed1.jpg
+
+newmtl d1768fad-15d7-4b18-a361-ec185126f6f0
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/d1768fad-15d7-4b18-a361-ec185126f6f0.jpg
+
+newmtl 60d0de0c-11dd-4b3f-b14a-c2819cbe31f9
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/60d0de0c-11dd-4b3f-b14a-c2819cbe31f9.jpg
+
+newmtl 3b14ff65-9eca-432b-a9d6-b17e3ec58dc4
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/3b14ff65-9eca-432b-a9d6-b17e3ec58dc4.jpg
+
+newmtl 4898e66b-6dfb-43f6-b102-b3c2fc23d470
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/4898e66b-6dfb-43f6-b102-b3c2fc23d470.jpg
+
+newmtl 45bda5c0-54a4-4c87-af6b-d2bb25c61749
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/45bda5c0-54a4-4c87-af6b-d2bb25c61749.jpg
+
+newmtl 6c4dbe3b-4cd7-4b78-8fb8-f74f855220ac
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/6c4dbe3b-4cd7-4b78-8fb8-f74f855220ac.jpg
+
+newmtl a5487716-c656-4f2a-85d3-947a3857542e
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/a5487716-c656-4f2a-85d3-947a3857542e.jpg
+
+newmtl c71e67c9-cba5-4b95-a0a7-383c260c2700
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/c71e67c9-cba5-4b95-a0a7-383c260c2700.jpg
+
+newmtl d7c68e85-6171-4f70-9fa9-1c64b7820974
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/d7c68e85-6171-4f70-9fa9-1c64b7820974.jpg
+
+newmtl ec11589d-555b-4b25-a0d1-d84dd570077e
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/ec11589d-555b-4b25-a0d1-d84dd570077e.jpg
+
+newmtl fbf939ed-8d6d-459e-97fe-9cb92f43e0a1
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/fbf939ed-8d6d-459e-97fe-9cb92f43e0a1.jpg
+
+newmtl 22de0806-c843-4974-923a-b0114b5f2051
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/22de0806-c843-4974-923a-b0114b5f2051.jpg
+
+newmtl c2a621ba-ad8b-49d6-bdc5-530ada5c8dfe
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/c2a621ba-ad8b-49d6-bdc5-530ada5c8dfe.jpg
+
+newmtl 3fcf345d-5a7c-4030-9941-1b899e3cdfd2
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+map_Kd Image/3fcf345d-5a7c-4030-9941-1b899e3cdfd2.jpg
+
